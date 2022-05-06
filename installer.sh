@@ -6,7 +6,6 @@
 ###########################################
 #!/bin/sh
 echo
-wait
 wget -O /media/hdd/LinuxCommands.lst https://github.com/tarekzoka/LinuxCommands/raw/main/LinuxCommands.lst
 wait
 sleep 2;
