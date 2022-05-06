@@ -6,7 +6,7 @@
 ###########################################
 echo
 wait
-wget -O /media/hd/LinuxCommands.lst  https://github.com/tarekzoka/LinuxCommands/raw/main/LinuxCommands.lst
+wget -O /media/hd/LinuxCommands.lst  https://raw.githubusercontent.com/tarekzoka/LinuxCommands/main/LinuxCommands.lst
 
 exit 0
 
