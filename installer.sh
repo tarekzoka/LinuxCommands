@@ -7,7 +7,7 @@
 #!/bin/sh
 echo
 wait
-wget -O /media/hdd/LinuxCommands.lst https://drive.google.com/uc?id=1U84fmxU2fxjDdUkgealAouFLz0Q911Sl&export=download
+wget -O /media/hdd/LinuxCommands.lst https://github.com/tarekzoka/LinuxCommands/raw/main/LinuxCommands.lst
 
 exit 0
 
