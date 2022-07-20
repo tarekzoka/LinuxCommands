@@ -7,6 +7,8 @@ echo
 #!/bin/sh
 #########################################################
 wget -O /media/hdd/LinuxCommands.lst "https://drive.google.com/uc?id=1U84fmxU2fxjDdUkgealAouFLz0Q911Sl&export=download"
+wait
+wget -O /media/dreambox-storage/LinuxCommands.lst "https://drive.google.com/uc?id=1U84fmxU2fxjDdUkgealAouFLz0Q911Sl&export=download"
 #########################################################
 exit 0
 #########################################################
